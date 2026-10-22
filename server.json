@@ -1,12 +1,12 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.AGI-CEO/paladin-php-rescue-mcp",
-  "title": "Paladin Front PHP Rescue & Zero-PHP Migration MCP",
-  "description": "PHP2Shell (CVE-2026-109618) scanner and automated WordPress to Zero-PHP Next.js migration.",
+  "name": "io.github.AGI-CEO/php2shell-wordpress-to-nextjs-mcp",
+  "title": "PHP2Shell (CVE-2026-109618) Scanner & WordPress-to-Next.js Converter",
+  "description": "Scan and fix PHP2Shell (CVE-2026-109618) PHP RCE flaws and convert WordPress sites to Next.js.",
   "version": "1.0.0",
   "websiteUrl": "https://www.paladinfront.com/php-rescue",
   "repository": {
-    "url": "https://github.com/AGI-CEO/paladin-php-rescue-mcp",
+    "url": "https://github.com/AGI-CEO/php2shell-wordpress-to-nextjs-mcp",
     "source": "github"
   },
   "remotes": [

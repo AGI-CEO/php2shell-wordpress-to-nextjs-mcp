@@ -1,4 +1,4 @@
-# Paladin Front PHP2Shell Vulnerability Scanner & WordPress-to-Next.js MCP Server
+# PHP2Shell (CVE-2026-109618) Scanner & WordPress-to-Next.js Converter MCP Server
 
 [![MCP Protocol](https://img.shields.io/badge/MCP-2024--11--05-emerald)](https://www.paladinfront.com/api/mcp)
 [![Smithery Skill](https://img.shields.io/badge/Smithery-jetblaise%2Fphp2shell--rescue-blue)](https://smithery.ai/skills/jetblaise/php2shell-rescue)
