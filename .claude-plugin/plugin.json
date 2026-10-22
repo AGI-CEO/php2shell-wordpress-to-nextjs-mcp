@@ -1,0 +1,12 @@
+{
+  "name": "paladin-php-rescue",
+  "version": "1.0.0",
+  "description": "Scan any website for CVE-2026-109618 / CVE-2026-109619 PHP2Shell vulnerabilities and compile a live Zero-PHP Next.js preview.",
+  "author": {
+    "name": "Blaise Pascual",
+    "email": "inbox@blaisep.com",
+    "url": "https://paladinfront.com/php-rescue"
+  },
+  "skills": "./skills",
+  "mcpServers": "./mcp.json"
+}

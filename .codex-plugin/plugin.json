@@ -1,0 +1,23 @@
+{
+  "schema_version": "v1",
+  "name": "paladin-php-rescue",
+  "version": "1.0.0",
+  "description": "Scan any website for CVE-2026-109618 / CVE-2026-109619 PHP2Shell vulnerabilities and compile a live Zero-PHP Next.js preview.",
+  "author": {
+    "name": "Blaise Pascual",
+    "email": "inbox@blaisep.com",
+    "url": "https://paladinfront.com/php-rescue"
+  },
+  "skills": "./skills",
+  "mcp_servers": "./mcp.json",
+  "extensions": {
+    "com.openai": {
+      "presentation": {
+        "display_name": "PHP2Shell Scanner & Next.js Converter",
+        "short_description": "Scan WordPress/PHP sites for CVE-2026-109618 and build a live Next.js preview.",
+        "privacy_policy_url": "https://paladinfront.com/php-rescue",
+        "legal_info_url": "https://paladinfront.com/php-rescue"
+      }
+    }
+  }
+}

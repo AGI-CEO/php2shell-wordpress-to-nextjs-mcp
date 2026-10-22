@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "paladin-php-rescue": {
+      "type": "streamable-http",
+      "url": "https://www.paladinfront.com/api/mcp"
+    }
+  }
+}

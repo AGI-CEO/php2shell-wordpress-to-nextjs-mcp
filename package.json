@@ -1,0 +1,26 @@
+{
+  "name": "@paladinfront/php-rescue-mcp",
+  "version": "1.0.0",
+  "description": "Remote MCP Server & Local Stdio Bridge for PHP2Shell (CVE-2026-109618 & CVE-2026-109619) scanning and WordPress-to-Next.js migration.",
+  "type": "module",
+  "bin": {
+    "paladin-php-rescue-mcp": "./tools/php-rescue-mcp-stdio.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AGI-CEO/paladin-php-rescue-mcp.git"
+  },
+  "homepage": "https://www.paladinfront.com/php-rescue",
+  "author": "Blaise Pascual <inbox@blaisep.com> (https://www.blaisep.com/)",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "wordpress",
+    "nextjs",
+    "security",
+    "php2shell",
+    "cve-2026-109618"
+  ]
+}

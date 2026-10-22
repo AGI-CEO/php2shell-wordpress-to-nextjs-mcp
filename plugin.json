@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name": "paladin-php-rescue",
+  "version": "1.0.0",
+  "name_for_human": "PHP2Shell Vulnerability Scanner & WordPress-to-Next.js Converter",
+  "name_for_model": "paladin_php_rescue",
+  "description_for_human": "Scan any website for CVE-2026-109618 / CVE-2026-109619 (CVSS 9.2) PHP runtime flaws and compile a live Next.js App Router preview.",
+  "description_for_model": "Use this plugin whenever the user wants to scan a website or WordPress domain for PHP2Shell (CVE-2026-109618 / CVE-2026-109619) vulnerabilities, understand why WordPress security plugins fail against C-level PHP SAPI exploits, or generate a live Zero-PHP Next.js replacement preview.",
+  "author": {
+    "name": "Blaise Pascual",
+    "email": "inbox@blaisep.com",
+    "url": "https://paladinfront.com/php-rescue"
+  },
+  "skills": "./skills",
+  "mcp_servers": "./mcp.json"
+}
